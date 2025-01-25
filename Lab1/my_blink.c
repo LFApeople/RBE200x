@@ -21,12 +21,12 @@ while(true) {
 // A function for the driver is called to set the wireless chip LED on.
   cyw43_arch_gpio_put(CYW43_WL_GPIO_LED_PIN, 1);
 // The chip is set to wait for half a second (500 ms) of no activity.
-  sleep_ms(500);
+  sleep_ms(100);
 
 // A function for the driver is called to set the wireless chip LED off.
   cyw43_arch_gpio_put(CYW43_WL_GPIO_LED_PIN, 0);
 // The chip is set to wait for half a second (500 ms) of no activity.
-  sleep_ms(500);
+  sleep_ms(100);
 }
 }
  
