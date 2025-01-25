@@ -1,0 +1,5 @@
+/home/ubuntu-rbe-200x/RBE200x/Lab1/build/pioasm-install/pioasm/pioasm
+/home/ubuntu-rbe-200x/RBE200x/Lab1/build/pioasm-install/pioasm/pioasmTargets.cmake
+/home/ubuntu-rbe-200x/RBE200x/Lab1/build/pioasm-install/pioasm/pioasmTargets-release.cmake
+/home/ubuntu-rbe-200x/RBE200x/Lab1/build/pioasm-install/pioasm/pioasmConfig.cmake
+/home/ubuntu-rbe-200x/RBE200x/Lab1/build/pioasm-install/pioasm/pioasmConfigVersion.cmake
